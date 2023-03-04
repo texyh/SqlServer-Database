@@ -5,6 +5,8 @@
     [Cost] INT NULL, 
     [Color] NVARCHAR(50) NULL,
     [Size] NVARCHAR(50) NULL,
+    [Description] NVARCHAR(50) NULL,
+    
     
     
 )
